@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 - 🔭 I’m currently working on **Algorithmic Trading & AI-driven Finance Projects**
 - 🌱 I’m currently learning **Quantitative Finance & Advanced AI Optimization**
-- 💬 Ask me about **Machine Learning, Verilog, and Algorithmic Trading**
+- 💬 Ask me about **Machine Learning, AI, Quantitative Finance and Algorithmic Trading**
 - 📫 How to reach me: **vm2260@nyu.edu**
 
 ---
