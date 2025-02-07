@@ -20,13 +20,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Will</h1>
 <h3 align="center">A Passionate Computer Engineer and AI/ML, Quant Finance Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abayoralov&label=Profile%20views&color=0e75b6&style=flat" alt="abayoralov" />
-</p>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Algorithmic Trading & AI-driven Finance Projects**
-- 🌱 I’m currently learning **Quantitative Finance & Advanced AI Optimization**
+- 🔭 I’m currently working on **Algorithmic Trading & AI/ML-driven Finance Projects**
+- 🌱 I’m currently learning **Quantitative Finance, Advanced AI Optimization and Data Science**
 - 💬 Ask me about **Machine Learning, AI, Quantitative Finance and Algorithmic Trading**
 - 📫 How to reach me: **vm2260@nyu.edu**
 
@@ -34,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,vscode,linux,bash,matlab,r" />
 </p>
 
 ---
@@ -49,6 +46,8 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vm2260?theme=dark&font=Abel&ext=contest)
 
 ## 📫 Connect with Me
 <p align="center">
