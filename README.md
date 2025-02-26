@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Dice Animation](https://github.com/wunderman/wunderman/blob/main/dice.gif)
+
+<div align="center"> ![Dice Animation](https://github.com/wunderman/wunderman/blob/main/dice.gif) </div>
 
 
 <h1 align="center">Hi, I'm Will⛈️</h1>
