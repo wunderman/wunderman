@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Dice Animation](https://github.com/wunderman/wunderman/blob/main/dice.gif)
 
 
 <h1 align="center">Hi, I'm Will⛈️</h1>
 <h3 align="center">A Passionate Computer Engineer and AI/ML, Quant Finance Enthusiast</h3>
 
-<img src="https://github.com/wudnerman/wunderman/blob/main/dice.gif" width="500">
 
 
 
