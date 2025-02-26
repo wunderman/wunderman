@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GIF Description](https://github.com/your-username/your-repo-name/blob/main/dice GIF by Craigson.gif)
+![GIF Description](https://github.com/wunderman/wunderman/blob/main/dice GIF by Craigson.gif)
 
 <h1 align="center">Hi, I'm Will⛈️</h1>
 <h3 align="center">A Passionate Computer Engineer and AI/ML, Quant Finance Enthusiast</h3>
