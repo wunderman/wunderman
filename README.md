@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/wudnerman/wunderman/blob/main/dice GIF by Craigson.gif" width="500">
-
 
 <h1 align="center">Hi, I'm Will⛈️</h1>
 <h3 align="center">A Passionate Computer Engineer and AI/ML, Quant Finance Enthusiast</h3>
+
+<img src="https://github.com/wudnerman/wunderman/blob/main/dice GIF by Craigson.gif" width="500">
+
 
 
 ## 🚀 About Me
