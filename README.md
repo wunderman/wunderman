@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> 
-  ![Dice Animation](https://github.com/wunderman/wunderman/blob/main/dice.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wunderman/wunderman/main/dice.gif" width="500">
 </div>
-
 
 <h1 align="center">Hi, I'm Will⛈️</h1>
 <h3 align="center">A Passionate Computer Engineer and AI/ML, Quant Finance Enthusiast</h3>
