@@ -10,11 +10,11 @@
 
 
 
-## 🚀 About Me
-- 🔭 I’m currently working on **Algorithmic Trading & AI/ML-driven Finance Projects**
-- 🌱 I’m currently learning **Quantitative Finance, Advanced AI Optimization and Data Science**
-- 💬 Ask me about **Machine Learning, AI, Quantitative Finance and Algorithmic Trading**
-- 📫 How to reach me: **vm2260@nyu.edu**
+## About Me
+- I’m currently working on **Algorithmic Trading & AI/ML-driven Finance Projects**
+- I’m currently learning **Quantitative Finance, Advanced AI Optimization and Data Science**
+- Ask me about **Machine Learning, AI, Quantitative Finance and Algorithmic Trading**
+- How to reach me: **vm2260@nyu.edu**
 
 ---
 
