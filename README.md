@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/wunderman/wunderman/main/dice.gif" width="500">
 </div>
 
-<h1 align="center">Hi, I'm Will</h1>
+<h1 align="center">Hi, I'm Viktor</h1>
 <h3 align="center">A Passionate Computer Engineer and AI/ML, Quant Finance Enthusiast</h3>
 
 
