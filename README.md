@@ -34,8 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wunderman&theme=radical" />
 </p>
 
-<p><iframe src="https://hackerrank-badge.herokuapp.com/wunderman" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe></p>p
-
+<iframe src="https://hackerrank-badge.herokuapp.com/wunderman" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 ---
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wunderman?theme=dark&font=Abel&ext=contest)
