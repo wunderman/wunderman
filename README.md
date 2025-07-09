@@ -14,18 +14,18 @@
 - I’m currently working on **Algorithmic Trading & AI/ML-driven Finance Projects**
 - I’m currently learning **Quantitative Finance, Advanced AI Optimization and Data Science**
 - Ask me about **Machine Learning, AI, Quantitative Finance and Algorithmic Trading**
-- How to reach me: **vm2260@nyu.edu**
+- How to reach me: **vm2260@stern.nyu.edu**
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,vscode,linux,bash,matlab,r" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wunderman&show_icons=true&theme=radical" alt="wunderman" />
 </p>
@@ -38,7 +38,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vm2260?theme=dark&font=Abel&ext=contest)
 
-## 📫 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/viktor-mekvabidze"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:vm2260@nyu.edu"><img align="center" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" /></a>
