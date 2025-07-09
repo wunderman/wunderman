@@ -36,7 +36,7 @@
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/vm2260?theme=dark&font=Abel&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/wunderman?theme=dark&font=Abel&ext=contest)
 
 ## Connect with Me
 <p align="center">
